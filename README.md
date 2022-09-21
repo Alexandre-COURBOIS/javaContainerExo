@@ -1,0 +1,1 @@
+Exercice project as aiming to test our capacity to push a project on github
